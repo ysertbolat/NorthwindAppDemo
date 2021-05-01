@@ -1,0 +1,2 @@
+C:\Users\90534\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\90534\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csprojAssemblyReference.cache
